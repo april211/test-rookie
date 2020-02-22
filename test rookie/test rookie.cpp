@@ -6,7 +6,7 @@ int main()
 	scanf_s("%d %d", &a, &b);
 	printf("%d\n", a + b);
 	printf("hello world\n");
-
+	printf("zip");
 
 
 
